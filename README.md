@@ -4,6 +4,8 @@ Custom element range component, a part of Bigfoot UI kit.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/zhukovka/hz-range)
 
+[Live Demo ↗](https://jsfiddle.net/p7j9608w/)
+
 ## Installation
 
 ``` npm install bigfoot-ui ```
