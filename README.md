@@ -39,7 +39,9 @@ index.html
 -->
 
 ```html
-<hz-range></hz-range>
+<div>
+    <hz-range></hz-range>
+</div>
 ```
 
 ## Contributing
