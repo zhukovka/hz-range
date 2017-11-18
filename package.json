@@ -1,0 +1,25 @@
+{
+  "name": "hz-range",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukovka/hz-range.git"
+  },
+  "keywords": [
+    "custom elements"
+  ],
+  "author": "zhukovka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukovka/hz-range/issues"
+  },
+  "homepage": "https://github.com/zhukovka/hz-range#readme",
+  "dependencies": {
+    "bigfoot-ui": "0.0.1-alfa-0.2"
+  }
+}
