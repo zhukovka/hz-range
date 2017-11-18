@@ -1,4 +1,4 @@
-# <hz-range>
+# &lt;hz-range&gt;
 
 Custom element range component, a part of Bigfoot UI kit.
 
