@@ -16,7 +16,7 @@
     "custom elements"
   ],
   "author": "zhukovka",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/zhukovka/hz-range/issues"
   },
