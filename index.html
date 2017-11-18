@@ -9,6 +9,12 @@
 </head>
 <body>
     <hz-range></hz-range>
+    <div id="hzrange"></div>
     <script src="index.js"></script>
+    <script>
+        document.querySelector("hz-range").addEventListener("range-change", (e)=>{
+            hzrange.innerText = e.detail
+        })
+    </script>
 </body>
 </html>

@@ -4,7 +4,7 @@ Custom element range component, a part of Bigfoot UI kit.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg?style=flat-square)](https://www.webcomponents.org/element/zhukovka/hz-range)
 
-[Live Demo ↗](https://jsfiddle.net/p7j9608w/)
+[Live Demo ↗](https://jsfiddle.net/p7j9608w/2/)
 
 ## Installation
 
@@ -26,7 +26,13 @@ index.html
 <html lang="en">
     <body>
         <hz-range></hz-range>
+        <div id="hzrange"></div>
         <script src="index.js"></script>
+        <script>
+                document.querySelector("hz-range").addEventListener("range-change", (e)=>{
+                    hzrange.innerText = e.detail
+                })
+        </script>
     </body>
 </html>
 ```
@@ -47,6 +53,7 @@ index.html
     <hz-range></hz-range>
 </div>
 ```
+
 
 ## Contributing
 1. Fork it!
