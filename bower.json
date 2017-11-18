@@ -1,0 +1,22 @@
+{
+  "name": "hz-range",
+  "authors": [
+    "zhukovka"
+  ],
+  "description": "Custom element range component, a part of Bigfoot UI kit.",
+  "main": "index.js",
+  "keywords": [
+    "web-components"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "idea",
+    "node_modules",
+    "bower_components",
+    "package-lock.json"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
